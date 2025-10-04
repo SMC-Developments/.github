@@ -1,12 +1,23 @@
-## Hi there 👋
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="auto" height="65">
+  </a>
 
-<!--
+  <h3 align="center">SMC Developments</h3>
 
-**Here are some ideas to get you started:**
+  <p align="center">
+    This repository is a centralized reference for all our plugins. 
+    <br /><br />
+    <a href="https://www.smcdevelopments.com">Website</a>
+    &middot;
+    <a href="https://www.smcdevelopments.com">Report Bug</a>
+    &middot;
+    <a href="https://www.smcdevelopments.com">Request Feature</a>
+  </p>
+</div> <!-- Closing the centered section -->
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+&nbsp;
+&nbsp;
