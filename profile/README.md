@@ -1,2 +1,1 @@
 ### SMC Developments
-Some text
