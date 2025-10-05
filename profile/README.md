@@ -8,7 +8,7 @@
 
   <p align="center">
     SMC Developments is a Minecraft software organization building advanced frameworks and plugins that push Minecraft development forward.
-    For creators, by creators.
+    <br>For creators, by creators.
     <br /><br />
     <a href="https://www.smcdevelopments.com">Website</a>
     &middot;
