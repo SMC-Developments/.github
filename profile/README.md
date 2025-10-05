@@ -14,6 +14,6 @@
     &middot;
     <a href="https://www.smcdevelopments.com">Report Bug</a>
     &middot;
-    <a href="https://www.smcdevelopments.com">Request Feature</a>
+    <a href="https://www.smcdevelopments.com">Request Support</a>
   </p>
 </div>
